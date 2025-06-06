@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\MyData\bin\Debug\MyData.exe.config
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\MyData\bin\Debug\MyData.exe
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\MyData\bin\Debug\MyData.pdb
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\MyData\obj\Debug\MyData.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\MyData\obj\Debug\MyData.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\MyData\obj\Debug\MyData.exe
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\MyData\obj\Debug\MyData.pdb
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\MyData\bin\Debug\MyData.csv
